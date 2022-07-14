@@ -1,6 +1,6 @@
 0x10. C - printf
 Description
-This team project is part of the ALX course content. _printf replicates the C standard library printf() function.
+This team project by Ayodeji Adebisi and Yusuf Olamilekan Muktar is part of the ALX course content. _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
 
